@@ -1,7 +1,7 @@
 Hi thanks for stopping by 👋
 
 🌱 I’m currently learning React + Rails<br/>
-🤔 My background is in design but I dabbled in code and eventually just made it full time. I spent lots of time developing in PHP/JS/MySQL<br/>
-💬 I also enjoy music, I play percussion and some guitar, golf and love tech. I can talk about anything almost or like learning about what other people like as well<br/>
+🤔 My superpowers include: PHP/JS/SQL<br/>
+💬 I also enjoy music, I play percussion and guitar, sports and love tech. I can talk about anything or like learning about other interests<br/>
 😄 Pronouns: he/him<br/>
 ⚡ Fun fact: I'm born and raised in Canada 
