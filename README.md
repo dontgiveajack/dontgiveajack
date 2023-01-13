@@ -4,4 +4,4 @@ Hi thanks for stopping by 👋
 🤔 My superpowers include: PHP/JS/SQL + design/layout/print <br/>
 💬 I also enjoy music, I play percussion and guitar, sports and love all things tech<br/>
 😄 Pronouns: he/him<br/>
-⚡ Fun fact: I'm born and raised in Canada 
+⚡ Fun fact: I'm born and raised in a small rural town in Canada 
